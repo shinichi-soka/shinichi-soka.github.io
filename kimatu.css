@@ -1,0 +1,238 @@
+@charset "utf-8";
+
+P { text-align: center; 
+    margin-bottom: 5%;
+
+}
+
+H1 { text-align: center;
+    
+}
+#title-sunrise{
+    text-align: center;
+    font-size: 50px;
+    background-color: skyblue;
+}
+
+#tittle-starbucks{
+text-align: center;
+font-size: 50px;
+background-color: rgb(245, 106, 238);
+
+}
+
+#syoukai,#event1,#event2,#event3,#event4,#access{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(25, 141, 83);
+}
+
+
+#title{
+    text-align: center;
+    font-size: 90px;
+    background-color: skyblue;
+    margin: 0 0 0 0 ;
+}
+
+#pagetitle-text{
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(70, 67, 67);
+}
+
+
+#event4{
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(156, 62, 62);
+}
+
+
+#conclusion{
+    text-align: center;
+    
+}
+
+
+video{text-align: center;
+
+}
+
+
+h3 > a{
+  text-decoration: none;  
+  color: whitesmoke;
+}
+
+
+.guide{
+    background-color: limegreen;
+    margin: 0 0.25% 0 0.25%;
+    height: 65px;
+    width: 19.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#access{
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(192, 59, 59);
+}
+
+.areaselect{
+    background-color: green;
+    margin: 0 1.5% 0 1.5%;
+    height: 65px;
+    width: 30%;
+    text-align: center;
+}
+
+
+
+.shop{
+    width: 45%;
+    margin: 0 2.5% 0 2.5%;
+    float: left;
+    text-align: center;
+}
+
+.Sname{
+    text-align: end;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.concept{
+    font-weight: 600;
+}
+
+.animalname{
+    border-bottom: 3px solid orange;
+    text-align: center;
+}
+
+.tenponame{
+    border-bottom: 3px solid orange;
+    text-align: center;
+}
+
+.animalcategory{
+    clear: both;
+
+}
+
+.guide1{
+    clear: both;
+}
+
+.border{
+    clear: both;
+}
+#pop{background-color: lemonchiffon;
+    text-align: center;
+    padding: 0%;
+}
+
+#area1, #area2, #area3{
+    background-color: greenyellow;
+    text-align: center;
+}
+
+#elephant, #lion, #tiger, #zebra, #giraffe, #chimpanzee, #koala, #kangaroo,#thesunrieshack{
+    background-color: lemonchiffon;
+     width: 300px;
+}
+
+#thesunrieshack,#thesunriseshack2,#thesunriseshack3,#thesunriseshack4{
+    background-color: lemonchiffon;
+     width: 300px;
+}
+
+#starbucks1,#starbucks2,#starbucks3{
+    background-color: lemonchiffon;
+     width: 300px;
+}
+
+#event2{
+    inset-block: center;
+}
+
+h2,h3 { text-align: center ;
+    
+}
+
+#stenpo,#menu,#smenuna,#present,#koutuu,#time{
+    background-color: greenyellow;
+    text-align: center;
+
+}
+
+a { text-align: center ;
+
+
+}
+
+#sunriseshack> h1 {
+    list-style: none;
+    padding-left: 0px;
+}
+
+#menubar>ul>li{
+    display: inline;
+    margin: 0 16px 0 0;
+    padding: 4spx;
+    border: 1px solid #666666;
+    border-radius: 4px;
+    background: linear-gradient(#ffffff, #888888);
+
+}
+
+.box1 {
+    background-color: brown;
+}
+
+.box2 {
+    background-color: cornflowerblue;
+}
+
+.box3 {
+    background-color: darkorange;
+}
+
+input[type="submit"]{
+    border: 1px solid #FF0000;
+    border-radius: 4px;
+    background: linear-gradient(0deg, #0086f9, #b6b6b7);
+    color: #fff;
+
+
+}
+
+input[type="reset"]{
+    border: 1px solid #FF0000;
+    border-radius: 4px;
+
+    background: linear-gradient(0deg, #0086f9, #b6b6b7);
+    color: #fff;
+}
+
+input[type="button"]{
+    border: 1px solid #FF0000;
+    border-radius: 4px;
+
+    background: linear-gradient(0deg, #0086f9, #b6b6b7);
+    color: #fff;
+
+
+};
+
+.goods-img{
+
+    
+    width: 25%;
+    
+
+}
